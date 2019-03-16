@@ -4,10 +4,8 @@
 ## latest-edu-progres
 
 * https://classroom.udacity.com/courses/ud187
-```
-next
-```
-lesson: 3 part 4 - Neural Network
+
+`NEXT => lesson: 3 part 4 - Neural Network`
 
 ML and TensorFlow
 * https://classroom.udacity.com/courses/ud187
