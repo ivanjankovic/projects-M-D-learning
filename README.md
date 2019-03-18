@@ -5,7 +5,7 @@
 
 * https://classroom.udacity.com/courses/ud187
 
-`NEXT => lesson: 3 part 4 - Neural Network`
+`NEXT => lesson: 4 Introduction to CNNs, part 1 - Interview with Sebastian`
 
 ML and TensorFlow
 * https://classroom.udacity.com/courses/ud187
