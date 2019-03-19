@@ -7,6 +7,10 @@
 
 `NEXT => lesson: 4 Introduction to CNNs, part 1 - Interview with Sebastian`
 
+## next
+TF regression probblem foloww along  
+https://www.youtube.com/watch?v=-vHQub0NXI4
+
 ML and TensorFlow
 * https://classroom.udacity.com/courses/ud187
 * https://www.coursera.org/learn/serverless-machine-learning-gcp
